@@ -54,6 +54,14 @@ Solo necesitas abrir el archivo `index.html` en cualquier navegador moderno para
 
 ---
 
-## Autor
 
-Página de fans creada por **Adrián López**.
+## Capturas de la web
+
+![01](01.png)
+![02](02.png)
+![03](03.png)
+![04](04.png)
+![05](05.png)
+![06](06.png)
+![07](07.png)
+
